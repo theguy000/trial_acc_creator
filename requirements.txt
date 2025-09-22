@@ -1,0 +1,13 @@
+# Core dependencies for Augment Account Creator
+requests>=2.31.0
+camoufox[geoip]
+pyperclip>=1.8.2
+
+# Email handling
+imaplib2>=0.57
+
+# Optional: For better error handling and logging
+colorama>=0.4.6
+camoufox-captcha
+aiohttp>=3.8.0
+asyncio
